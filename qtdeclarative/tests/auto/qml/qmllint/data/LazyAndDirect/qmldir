@@ -1,4 +1,0 @@
-module LazyAndDirect
-
-Direct 1.0 Direct.qml
-singleton Lazy 1.0 Lazy.qml

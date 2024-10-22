@@ -1,7 +1,0 @@
-# QTBUG-103080
-[passiveGrabberOrder]
-android
-
-# QTBUG-100991
-[touchCompression]
-android

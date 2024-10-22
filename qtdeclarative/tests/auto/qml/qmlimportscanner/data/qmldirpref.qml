@@ -1,3 +1,0 @@
-import Module
-
-A {}

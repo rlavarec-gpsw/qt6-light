@@ -1,3 +1,0 @@
-DeprProp {
-    deprecatedReason: 200
-}

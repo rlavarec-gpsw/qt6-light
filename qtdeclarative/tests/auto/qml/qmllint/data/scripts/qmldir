@@ -1,4 +1,0 @@
-module scripts
-typeinfo scripts.qmltypes
-Foo 1.0 Foo.js
-

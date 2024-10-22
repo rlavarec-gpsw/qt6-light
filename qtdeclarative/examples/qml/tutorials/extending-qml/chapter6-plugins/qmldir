@@ -1,3 +1,0 @@
-module ChartsApp
-prefer :/qt/qml/ChartsApp/
-App 254.0 App.qml

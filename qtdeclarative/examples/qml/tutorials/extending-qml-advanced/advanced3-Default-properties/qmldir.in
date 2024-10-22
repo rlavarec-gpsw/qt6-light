@@ -1,4 +1,0 @@
-module People
-typeinfo default.qmltypes
-prefer :/qt/qml/People/
-Main 254.0 Main.qml

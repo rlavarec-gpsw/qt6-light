@@ -1,6 +1,0 @@
-<RCC>
-    <qresource prefix="/qt/qml/layoutdirection">
-        <file>layoutdirection.qml</file>
-    </qresource>
-</RCC>
-

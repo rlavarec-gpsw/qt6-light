@@ -1,2 +1,0 @@
-qt_internal_add_example(quickwidget)
-qt_internal_add_example(qquickwidgetversuswindow_opengl)

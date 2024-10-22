@@ -1,5 +1,0 @@
-import QtQuick.Templates
-
-CheckBox {
-
-}

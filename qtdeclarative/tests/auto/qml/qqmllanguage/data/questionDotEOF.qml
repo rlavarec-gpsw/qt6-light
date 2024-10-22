@@ -1,3 +1,0 @@
-Component {
-    Component.onComplete {
-        undefined.?

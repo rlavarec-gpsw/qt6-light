@@ -1,3 +1,0 @@
-add_subdirectory(layoutdirection)
-add_subdirectory(layoutmirroring)
-add_subdirectory(textalignment)

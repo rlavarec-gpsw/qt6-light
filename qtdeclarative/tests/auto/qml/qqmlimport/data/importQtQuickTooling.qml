@@ -1,4 +1,0 @@
-import QtQuick.tooling
-
-Property {
-}

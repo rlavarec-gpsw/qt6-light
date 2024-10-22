@@ -1,1 +1,0 @@
-add_subdirectory(qml_basic_item)

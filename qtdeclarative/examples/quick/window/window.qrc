@@ -1,8 +1,0 @@
-<RCC>
-    <qresource prefix="/qt/qml/window">
-        <file>window.qml</file>
-        <file>Splash.qml</file>
-        <file>CurrentScreen.qml</file>
-        <file>AllScreens.qml</file>
-    </qresource>
-</RCC>

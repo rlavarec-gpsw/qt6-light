@@ -1,3 +1,0 @@
-module PropertyChangeHandlers
-typeinfo propertychangehandlers.qmltypes
-import QtQml

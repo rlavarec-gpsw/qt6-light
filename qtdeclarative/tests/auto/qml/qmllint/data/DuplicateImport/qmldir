@@ -1,4 +1,0 @@
-module DuplicateImport
-typeinfo plugins.qmltypes
-depends QtQuick 2.0
-import QtQml

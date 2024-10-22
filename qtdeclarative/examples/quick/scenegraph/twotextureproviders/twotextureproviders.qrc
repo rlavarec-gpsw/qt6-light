@@ -1,8 +1,0 @@
-<RCC>
-    <qresource prefix="/scenegraph/twotextureproviders">
-        <file>main.qml</file>
-        <file>shaders/checker.frag.qsb</file>
-        <file>shaders/xorblender.vert.qsb</file>
-        <file>shaders/xorblender.frag.qsb</file>
-    </qresource>
-</RCC>

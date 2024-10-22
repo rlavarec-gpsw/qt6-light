@@ -1,3 +1,0 @@
-module A
-Child 1.0 Child.qml
-import B

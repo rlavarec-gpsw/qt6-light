@@ -1,3 +1,0 @@
-import ModuleWithPrefer
-
-Preferred {}

@@ -1,7 +1,0 @@
-# QTBUG-65613
-[test_largeAnimation]
-b2qt
-
-# QTBUG-103260
-[test_finishBehavior]
-android
